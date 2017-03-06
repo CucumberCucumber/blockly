@@ -135,7 +135,7 @@ Blockly.Blocks['set_number'] = {
 
 
 <body>
-  <h1>We can get out of here!!!</a>
+  <h1>We can get out of here!!</a>
 
 <br>
 <button onclick="runJS()">Run Code</button>
